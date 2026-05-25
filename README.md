@@ -1,3 +1,3 @@
 # Pong-Logisim-CdM-8-U2026-
-Проект по созданию копии оригинальной "Pong" (1972) на базе Logisime / CdM-8.
-Процессор (CdM-8-mark5-full.circ) взят из открытых источников.
+Project of creating "Pong" (1972) on base Logisime / CdM-8.
+Processor (CdM-8-mark5-full.circ) is taken from open sources.
